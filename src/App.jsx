@@ -1,4 +1,4 @@
-import project1 from "src/assets/myowntwitterimage.png"
+import project1 from "/public/static/images/myowntwitterimage.png"
 import './App.css'
 function App() {
   return (
