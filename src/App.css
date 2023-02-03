@@ -16,6 +16,10 @@
   justify-content: center;
 }
 
+.myname {
+  font-size: 50px;
+}
+
 .trabajostitulo {
   font-size: 25px;
 }
